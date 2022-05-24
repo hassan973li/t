@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+<html>
+<head> 
+
+  
+  <title>smart train</title>
+  <link rel="stylesheet" href="style2.css">
+<link rel="icon" href="train.png">
+
+</head>
+<body> 
+<div class="login">
+  <img src="icons8-train-100.png" class="icon">
+<h1>LOG IN</h1>
+<p>username</p>
+<input type="text" name="" placeholder="Enter Username">
+<p>password</p>
+<input type="password" name="" placeholder="Enter password">
+<input type="submit" name="" value="Login">
+<a href="#">forgot password</a><br>
+
+</div>
+</body>
+</html>
